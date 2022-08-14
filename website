@@ -2,4 +2,4 @@
 sudo pacman -Sy --noconfirm apache
 sudo nano /srv/http/index.html
 sudo systemctl enable httpd
-sudo syetemctl start httpd
+sudo systemctl start httpd
